@@ -1,7 +1,6 @@
 # Project Title
 
-![Project Logo]("https://drive.google.com/file/d/1tpdSb6oe5VvdKuXCxTDkZxW_vp9IycpD/view?usp=sharing") <!-- Replace with your project logo -->
-
+![Project Logo](https://drive.google.com/file/d/1tpdSb6oe5VvdKuXCxTDkZxW_vp9IycpD/view?usp=sharing)
 ## 📖 Overview
 
 A brief description of what your project does and its purpose. Include key highlights or unique selling points.
