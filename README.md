@@ -11,6 +11,11 @@ COVID-19 Tracker App provides real-time statistics and insights about COVID-19 c
 - 📊 Visual Representations: Graphs and charts for better understanding of the trends.
 - 📰 Latest News and Updates: Stay informed with news about the pandemic.
 
+### App Screenshots:
+
+![Screenshot 1](./images/screenshot_1.png)
+![Screenshot 2](./images/screenshot_2.png)
+
 ## 📂 Table of Contents
 
 1. [Getting Started](#getting-started)
