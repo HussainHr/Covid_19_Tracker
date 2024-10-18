@@ -1,6 +1,6 @@
 # Project Title
 
-![Project Logo](./images/logo.png) <!-- Replace with your project logo -->
+![Project Logo](D:\\Rimon_GitHub_Project\Covid_19_Tracker\Covid_19_traker_Application\covid_19_tracker\images\virus.png) <!-- Replace with your project logo -->
 
 ## 📖 Overview
 
