@@ -1,7 +1,7 @@
 # Project Title
 
 ![Project Logo](https://drive.google.com/file/d/1tpdSb6oe5VvdKuXCxTDkZxW_vp9IycpD/view?usp=sharing)
-![Alt text]((./images/logo.png)?raw=true "Title")
+![Alt text](((https://drive.google.com/file/d/1tpdSb6oe5VvdKuXCxTDkZxW_vp9IycpD/view?usp=sharing))?raw=true "Title")
 ## 📖 Overview
 COVID-19 Tracker App provides real-time statistics and insights about COVID-19 cases, recoveries, and deaths across various countries and regions. The app utilizes public APIs to fetch the latest data and display it in a user-friendly interface with graphical representations and key information.
 
