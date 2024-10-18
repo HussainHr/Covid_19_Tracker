@@ -18,19 +18,19 @@ COVID-19 Tracker App provides real-time statistics and insights about COVID-19 c
 <img src="https://drive.google.com/uc?export=view&id=1NnoDk55JFVrcJAJAF06P3TzsirnV5hW7" alt="App Screenshot 1" width="500" height="700">
 
 ## Home Page
-<img src="https://drive.google.com/file/d/1DyVjvsCmY2VyagGqAO6p9aAEAtdlVjy_/view?usp=sharing" alt="App Screenshot 2" width="500" height="700">
+<img src="https://drive.google.com/uc?export=view&id=1DyVjvsCmY2VyagGqAO6p9aAEAtdlVjy_" alt="App Screenshot 2" width="500" height="700">
 
 ## Search Screen
-<img src="https://drive.google.com/file/d/1mHvgltraXGfKELZnxLFfr0TC8Sdr2kZl/view?usp=sharing" alt="App Screenshot 3" width="500" height="700">
+<img src="https://drive.google.com/uc?export=view&id=1mHvgltraXGfKELZnxLFfr0TC8Sdr2kZl" alt="App Screenshot 3" width="500" height="700">
 
 ## Country List Screen
-<img src="https://drive.google.com/file/d/1TwUdFUnqC-T3NaKkTDIZAGgr4nQHpSe4/view?usp=sharing" alt="App Screenshot 4" width="500" height="700">
+<img src="https://drive.google.com/uc?export=view&id=1TwUdFUnqC-T3NaKkTDIZAGgr4nQHpSe4" alt="App Screenshot 4" width="500" height="700">
 
 ## Countries People Affected Details Screen
-<img src="https://drive.google.com/file/d/1m_DsDBDdnLl9bIZg5yEiqPKl63MJjwmC/view?usp=sharing" alt="App Screenshot 5" width="500" height="700">
+<img src="https://drive.google.com/uc?export=view&id=1m_DsDBDdnLl9bIZg5yEiqPKl63MJjwmC" alt="App Screenshot 5" width="500" height="700">
 
 ## Shimmer Loading Screen
-<img src="https://drive.google.com/file/d/1_qn8g2g0Qg6jMTW9h_uGkKPWlk8j-RIa/view?usp=sharing" alt="App Screenshot 6" width="500" height="700">
+<img src="https://drive.google.com/uc?export=view&id=1_qn8g2g0Qg6jMTW9h_uGkKPWlk8j-RIa" alt="App Screenshot 6" width="500" height="700">
 
 ## 📂 Table of Contents
 
