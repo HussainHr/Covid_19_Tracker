@@ -14,7 +14,7 @@ COVID-19 Tracker App provides real-time statistics and insights about COVID-19 c
 
 ### App Screenshots:
 
-<img src="https://drive.google.com/uc?export=view&id=1NnoDk55JFVrcJAJAF06P3TzsirnV5hW7" alt="App Screenshot 1" width="500" height="300">
+<img src="https://drive.google.com/uc?export=view&id=1NnoDk55JFVrcJAJAF06P3TzsirnV5hW7" alt="App Screenshot 1" width="500" height="700">
 
 ## 📂 Table of Contents
 
